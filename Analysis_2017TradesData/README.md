@@ -1,4 +1,4 @@
-# Analysis of the 2017 TAQ NYSE Trades Data: An initial analysis
+# Analysis of the TAQ NYSE 2017 Trades Data: An initial analysis
 
 ### Data pre-processing
 
@@ -25,4 +25,13 @@ Output: trades2017_1m_med.csv <br>
 Input: trades2017_Cleaned3.csv <br>
 Output: some graphs <br>
 
+### Basic Analysis
+
+**BasicAnal.py**: It estimates a factor model.
+
+**fracDiff.py**
+
+### Artificial Neural Networks
+
+**ANN2.py, ANN1.py**: An artificial neural networks model which is tested with a simulated dataset.
 
