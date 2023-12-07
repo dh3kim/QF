@@ -3,7 +3,7 @@
 ### Data pre-processing
 
 **pre.py**: It reads the downloaded data, checks columns and records, and then save it to a datafile with columns of Symbol, Time, Ex (Exchange), SaleType and Price. <br>
-Input: $`\textcolor{red}{trades2017_202310232114.csv}`$ <br>
+Input: `\textcolor{red}{trades2017_202310232114.csv}` <br>
 Output: trades2017_cleaned.csv <br>
 Columns: Symbol, Time, Ex, SaleType, Price. <br>
 
